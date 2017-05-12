@@ -7,7 +7,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
-// 导入 pages 下的 Home.vue 
+// 导入 pages 下的 Home.vue
 import Home from './pages/Home'
 import Detail from './pages/Detail'
 
